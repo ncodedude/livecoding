@@ -11,6 +11,3 @@ O semaforo precisa iterar repetidas vezes até que se mande "PARAR"
 As cores do semaforo temum tempo de exibição
 Passar pelas cores do semaforo
 Toda vez que ele passar pela cor ela printa a cor
-
-arthur.gregorio@swile.com.br
-lucas.crocomo@swile.com.br
